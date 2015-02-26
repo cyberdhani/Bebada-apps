@@ -29,10 +29,10 @@ Pengguna
 Kegiatan 
 -----------
 
-Pada aplikasi ini akan melakukan kegiatan sebagai berikut :<br>
-1. User bisa membaca bahasa daerah .<br>
-2. User bisa menjawab kuis dari tiap daerah agar cepat dalam mengingat. <br>
-3. User bisa melihat developer.<br>
+Pada aplikasi ini akan melakukan kegiatan sebagai berikut <br>
+1. 	User bisa membaca bahasa daerah .<br>
+2. 	User bisa menjawab kuis dari tiap daerah agar cepat dalam mengingat. <br>
+3. 	User bisa melihat developer.<br>
 
 Kredit
 ----------
