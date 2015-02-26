@@ -1,7 +1,7 @@
-BEBADA APPS
+Bebada Apps
 ===================
 
-Version 1.1.0.1 - Tue 26 Feb 2015
+Version 1.1.0.1 - Kamis, 26 Feb 2015
 
 by Ramdhani  <br>
 <http://cyberdhani.github.io/>
@@ -41,7 +41,8 @@ Kredit :
 * Kelas				: XII-RPL
 * Sekolah			: SMK NEGERI 10 JAKARTA
 * Email				: Anonymousramdhani@gmail.com
-* Blogger			: Anonymousramdhani.blogspot.com
-* Web Github 		: cyberdhani.github.io
+* Blogger			: http://anonymousramdhani.blogspot.com
+* Web Github 		: https://cyberdhani.github.io
+* Facebook			: www.facebook.com/dhani.rpl.3
 
 ----------
