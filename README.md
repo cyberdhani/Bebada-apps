@@ -34,7 +34,7 @@ Pada aplikasi ini akan melakukan kegiatan sebagai berikut :
 2. User bisa menjawab kuis dari tiap daerah agar cepat dalam mengingat.
 3. User bisa melihat developer.
 
-Kredit :
+Kredit
 ----------
 
 * Nama				: Ramdhani
